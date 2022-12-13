@@ -1,5 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Andre Novais",
+	"description": "mock project",
+	"license": "myself",
+	"version": "1.0.0",
+	"keywords": [ "freecodecamp", "learning" ],
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
